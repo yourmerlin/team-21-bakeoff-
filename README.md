@@ -14,3 +14,5 @@ ideas for projects :
 - but you MUST use trackpad to click
 - rotate or select based on keybinds but must use trackpad to click(?)
 - use arrow keys too (?)
+- color the boxes differently so it shows when the next attach
+- 
